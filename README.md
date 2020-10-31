@@ -7,5 +7,5 @@
  "link3":"https://github.com/",
  "status":" ",
  "update":" ",
- "banner":" "
+ "banner":""
 }
