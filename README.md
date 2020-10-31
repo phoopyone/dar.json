@@ -1,6 +1,6 @@
 {
 "appId"="",
-"banner="",
+"banner"="",
 "native"="",
 "interstial"="",
 "link1"="https://flutter.dev/",
