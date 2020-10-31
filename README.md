@@ -7,5 +7,5 @@
  "link3":" ",
  "status":" ",
  "update":" ",
- "banner":" ",
+ "banner":" "
 }
