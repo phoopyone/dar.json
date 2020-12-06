@@ -1,12 +1,12 @@
 {"status":true,
-"linkone":"https://www.google.com/",
+"linkone":"https://phoopyone.github.io/",
 "linktwo":"https://www.google.com/",
-"appId":"ca-app-pub-3940256099942544/3419835294",
-"banner":"ca-app-pub-3940256099942544/6300978111",
-"native":"ca-app-pub-3940256099942544/6300978111",
+"appId":"ca-app-pub-4365622722637999/7995088677",
+"banner":"ca-app-pub-4365622722637999/9344857038",
+"native":"ca-app-pub-4365622722637999/9344857038",
 "title":"Updated",
 "about":"Updated for new and More Videos",
 "update":"com.master.massagevideos",
 "version":1,
-"interstial":"ca-app-pub-3940256099942544/1033173712"
+"interstial":""
 }
