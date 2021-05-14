@@ -8,5 +8,5 @@
 "about":"Updated for new and More Videos",
 "update":"com.master.massagevideos",
 "version":1,
-"interstial":""
+"interstial":"ca-app-pub-4365622722637999/9234159244"
 }
