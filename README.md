@@ -5,7 +5,7 @@
 "banner":"",
 "native":"",
 "title":"Updated",
-"about":နောက်ဗားရှင်းမှာ အပြာကား အသစ်များ ထပ်ထည့်ထားပါတယ်",
+"about":"ဇာတ်ကားအသစ် ထပ်ထည့်ထားပါသည်",
 "update":"master.apyar.apyarallkar",
 "version":1,
 "interstial":""
